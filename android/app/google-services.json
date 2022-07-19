@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "226800596265",
+    "project_id": "crud-loginapp",
+    "storage_bucket": "crud-loginapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226800596265:android:9a42497f4ef5cc21c37338",
+        "android_client_info": {
+          "package_name": "com.example.flutter_fb_auth_emailpass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226800596265-vfbl96r5d7iq7kbu8c6e8dsn66l340h7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_fb_auth_emailpass",
+            "certificate_hash": "e3f8b08931839ebc78f339070faf6af9d4244ef1"
+          }
+        },
+        {
+          "client_id": "226800596265-mp0srmu2m3qffud3paa0sqbrve6hkv6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmxKDIwkexhUlfy_BFilR1W1lkAM4f3uY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226800596265-mp0srmu2m3qffud3paa0sqbrve6hkv6o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+Crypto Price Tracking Feature
+Show change in price updated each day
+Enhance UI with Animations
+Expense Tracker
+Monthly Payment reminders
